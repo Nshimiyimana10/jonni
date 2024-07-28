@@ -15,6 +15,9 @@ function Dukundane(){
             <p>where the days needed to know react aproximatly equal <strong>{(x * y) + sum}</strong>,
             which is a long period of time.
              </p>
+             <p>To learn React faster, we have to commit ourselves to
+                everyday revision and make more practices
+             </p>
         </div>
         </>
         
