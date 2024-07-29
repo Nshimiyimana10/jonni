@@ -18,6 +18,7 @@ function Dukundane(){
              <p>To learn React faster, we have to commit ourselves to
                 everyday revision and make more practices
              </p>
+            <p>We are advancing in Github!Congz bro</p>
         </div>
         </>
         
